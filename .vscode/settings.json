@@ -1,0 +1,22 @@
+{
+  "go.toolsEnvVars": {
+    "CGO_ENABLED": "1",
+    "PATH": "C:\\msys64\\mingw64\\bin;${env:PATH}"
+  },
+  "go.buildTags": "",
+  "go.buildFlags": [],
+  "go.lintFlags": [],
+  "gopls": {
+    "build.env": {
+      "CGO_ENABLED": "1",
+      "PATH": "C:\\msys64\\mingw64\\bin;${env:PATH}"
+    },
+    "build.buildFlags": []
+  },
+  "files.associations": {
+    "*.go": "go"
+  },
+  "go.alternateTools": {
+    "go": "go"
+  }
+}
