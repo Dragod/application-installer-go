@@ -1,5 +1,7 @@
 # PfCode - Application Installer
 
+![Screenshot](./img/pfcode-installer_JokG9wzMyT.png)
+
 A modern GUI application for Windows that allows you to search, install, and organize applications using both Winget and Chocolatey package managers. Features comprehensive list management for organizing applications into custom categories.
 
 ![PfCode Application Installer](https://img.shields.io/badge/Platform-Windows-blue)
